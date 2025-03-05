@@ -1,5 +1,4 @@
 AG News Classification Using Deep Learning
-
 Overview
 This project focuses on classifying AG News articles into four categories: World, Sports, Business, and Science/Technology using Deep Learning techniques. The dataset is sourced from TensorFlow Datasets (AG News Subset), and the model is built using LSTM and CNN architectures.
 
