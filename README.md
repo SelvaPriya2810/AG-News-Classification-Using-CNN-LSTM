@@ -55,7 +55,7 @@ pip install tensorflow pandas numpy nltk matplotlib seaborn scikit-learn tensorf
    ```
 3. **Run the notebook in Google Colab or Jupyter Notebook**.  
 
-## **Project Team**  
+## **Authors**  
 - **Selvapriya Selvakumar**  
 - **Mansi Sain**  
 
